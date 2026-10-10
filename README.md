@@ -3,6 +3,14 @@
 A desktop application to track book inventory, members, lending and late fees.
 Built with **Java 17, Swing, JDBC and SQLite**.
 
+## Screenshots
+
+![Screenshot 1](Image/Screenshot%202026-10-10%20212457.png)
+
+![Screenshot 2](Image/Screenshot%202026-10-10%20212515.png)
+
+![Screenshot 3](Image/Screenshot%202026-10-10%20212541.png)
+
 ## Features
 
 - **Book inventory** - add, edit, delete and search books by title, author or ISBN
